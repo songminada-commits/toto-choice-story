@@ -1,0 +1,14 @@
+# Node modules
+yarn-error.log
+node_modules/
+
+# Build files
+/dist/
+/build/
+
+# Environment variables
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db
